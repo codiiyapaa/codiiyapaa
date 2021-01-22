@@ -29,7 +29,7 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/iamparasbansal"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="iamparasbansal" /></a></p><br><br>
 <br>
-### NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most code on github
+## NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most code on github
 <br>
 <p>
 <img align="left" src='https://github-readme-stats.vercel.app/api?username=codiiyapaa&show_icons=true&theme=radical&count_private=true'/>
