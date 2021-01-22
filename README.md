@@ -30,7 +30,7 @@
 <p><a href="https://www.buymeacoffee.com/iamparasbansal"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="iamparasbansal" /></a></p><br><br>
 <br>
 
-## Top languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most code on github
+#### Note- Top languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most code on github
 
 <br>
 <p>
