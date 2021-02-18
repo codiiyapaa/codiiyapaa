@@ -31,14 +31,13 @@
 <p><a href="https://www.buymeacoffee.com/iamparasbansal"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="iamparasbansal" /></a></p><br><br>
 <br>
 
-#### Note- Top languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most code on github
-
 <br>
 <p>
 <img align="left" src='https://github-readme-stats.vercel.app/api?username=codiiyapaa&show_icons=true&theme=radical&count_private=true'/>
 </p>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codiiyapaa&count_private=true&theme=radical" alt="codiiyapaa" />
 
+### Note- Top languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most code on github
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=codiiyapaa&layout=compact&theme=radical&count_private=true" />
 
 
