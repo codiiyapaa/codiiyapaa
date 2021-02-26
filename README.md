@@ -4,7 +4,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/codiiyapaa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Paras Bansal" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/iamparasbansal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Paras Bansal" height="30" width="40" /></a>
 <a href="https://medium.com/@parasbansal685" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@parasbansal685" height="30" width="40" /></a>
 </p>
 
